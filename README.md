@@ -1,2 +1,2 @@
-# python-docker
-A python-docker application lauching flask and dockerise image
+# python-flask-docker
+Another python flask project demonstrating dockerization and containerization of a python application
